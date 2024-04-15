@@ -1,0 +1,3 @@
+clks/us 10000
+app_id: 0 prioirty: 0 load: 100 window: 32 resp_check: 0 mem_bw: 100 load_q_size: 10 comp_time: 0 max_delay: 0 sum_delay_app: 36411277 e2e: 3215699 internal: 396562 num_packets: 965 
+app_id: 1 prioirty: 1 load: 100 window: 32 resp_check: 0 mem_bw: 100 load_q_size: 10 comp_time: 0 max_delay: 0 sum_delay_app: 618 e2e: 592 internal: 460 num_packets: 1 
